@@ -1,8 +1,11 @@
 # Thesis: Machine Learning Models Based on Image Statistics for Visual Quality Quantification
 
 **Author:** Fabio Bozzoli
+
 **Degree:** Bachelor of Science in Mathematics
+
 **University:** University of Modena and Reggio Emilia
+
 **Original Language:** Italian *(Note: The full thesis document is in Italian. This README provides a comprehensive English summary.)*
 
 ## Abstract
